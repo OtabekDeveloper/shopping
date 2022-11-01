@@ -1,0 +1,16 @@
+.carusel-img{
+    width: 80%;
+    height: 600px;
+
+}
+.carusel-img-wrapper{
+    margin: 10px 10px 5px 130px;
+}
+.carousel-control-prev-icon{
+    background-color: rgb(32, 182, 212);
+    border-radius: 70%;
+}
+.carousel-control-next-icon{
+    background-color: rgb(32, 182, 212);
+    border-radius: 70%; 
+}
