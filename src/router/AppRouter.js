@@ -1,5 +1,5 @@
 import Home from "../view/Home/Home";
-import Card from "../components/Card/Card";
+
 import Products from "../view/Products/Products";
 import {Routes, Route} from "react-router-dom"
 function AppRouter(){
